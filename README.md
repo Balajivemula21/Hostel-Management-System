@@ -11,8 +11,6 @@ The Hostel Management System is a project specifically designed for our college 
 
 - **JDBC connector:** To establish a connection between the Java application and the MySQL database, JDBC (Java Database Connectivity) connector is used. It enables seamless interaction between the front-end application and the back-end database.
 
-- **Developed using NetBeans:** The code for the Hostel Management System is developed and executed using NetBeans, an integrated development environment (IDE) for Java applications. NetBeans provides a convenient environment for coding, debugging, and testing the project.
-
 ---
 
 ## Introduction
